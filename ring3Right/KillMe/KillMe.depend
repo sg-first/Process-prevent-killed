@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1201857918 source:c:\killme\killme.rc
+	"resource.h"
+	"afxres.h"
+	"res\KillMe.rc2"
+	"l.chs\afxres.rc"
+
+1201768882 c:\killme\resource.h
+
+1201760123 c:\killme\res\killme.rc2
+
+1201829258 source:c:\killme\killmedlg.cpp
+	"stdafx.h"
+	"KillMe.h"
+	"KillMeDlg.h"
+	"kwindef.h"
+
+1201760123 c:\killme\stdafx.h
+	<afxwin.h>
+	<afxext.h>
+	<afxdisp.h>
+	<afxdtctl.h>
+	<afxcmn.h>
+
+1201760123 c:\killme\killme.h
+	"resource.h"
+
+1201829222 c:\killme\killmedlg.h
+	"webbrowser2.h"
+
+1201767216 c:\killme\webbrowser2.h
+
+1201759359 c:\killme\kwindef.h
+
+1201760123 source:c:\killme\stdafx.cpp
+	"stdafx.h"
+
+1201767216 source:c:\killme\webbrowser2.cpp
+	"stdafx.h"
+	"webbrowser2.h"
+
+1201767716 source:c:\killme\killme.cpp
+	"stdafx.h"
+	"KillMe.h"
+	"KillMeDlg.h"
+

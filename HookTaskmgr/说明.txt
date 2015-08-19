@@ -1,0 +1,1 @@
+HookTaskmgr目录为主程序,SafeProcess目录为我封装的消息钩子dll,主程序直接调用dll接口实现进程防杀,bin目录为编译的exe

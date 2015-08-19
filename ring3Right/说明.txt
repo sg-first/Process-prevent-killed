@@ -1,0 +1,2 @@
+killMe目录为主程序,WriteMemory目录为我封装的dll,主程序直接调用dll接口实现进程防杀,bin目录为编译的exe
+该方法是参考了csdn一位朋友的做法,原文地址为 http://blog.csdn.net/KeSummer/archive/2008/05/18/2455379.aspx

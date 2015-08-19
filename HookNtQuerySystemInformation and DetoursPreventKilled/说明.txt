@@ -1,0 +1,3 @@
+killtest目录为主程序,HookNt目录为hookApi之NtQuerySystemInformation,DetourDll目录为detours库实现进程防杀,bin目录为编译的exe
+HookNTQSI.dll(hookApi)和NoKillDll.dll(detours)均为动态加载,2000下自动加载HookNTQSI.dll实现进程隐藏,其它windows系统自动加载
+NoKillDll.dll实现进程防杀

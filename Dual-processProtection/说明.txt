@@ -1,0 +1,6 @@
+safeprocess目录为主程序,TempProcess目录为临时进程,ExeProtect目录为守护进程,bin目录为编译的exe
+SafeProcess.exe启动后通过TempProcess.exe启动ExeProtect.exe
+ProcessSet.ini为配置文件 当Protect=1 SafeProcess.exe和ExeProtect.exe互相监控,杀一个会启一个
+当Protect=0 SafeProcess.exe方可杀掉,杀掉SafeProcess.exe的同时ExeProtect.exe也自动结束
+
+

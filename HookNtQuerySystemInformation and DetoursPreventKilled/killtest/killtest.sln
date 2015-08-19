@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DetourDll", "..\DetourDll\DetourDll.vcproj", "{AF478494-1B28-48D0-9104-14F565BAEC61}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HookApi", "..\HookNt\HookApi.vcproj", "{A304896B-9768-400D-998C-F1D0EA8C6CEC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "killtest", "killtest.vcproj", "{4DFA587A-15B4-4E73-BACC-E16B512F9D63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF478494-1B28-48D0-9104-14F565BAEC61}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AF478494-1B28-48D0-9104-14F565BAEC61}.Release|Win32.ActiveCfg = Release|Win32
+		{AF478494-1B28-48D0-9104-14F565BAEC61}.Release|Win32.Build.0 = Release|Win32
+		{A304896B-9768-400D-998C-F1D0EA8C6CEC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A304896B-9768-400D-998C-F1D0EA8C6CEC}.Release|Win32.ActiveCfg = Release|Win32
+		{A304896B-9768-400D-998C-F1D0EA8C6CEC}.Release|Win32.Build.0 = Release|Win32
+		{4DFA587A-15B4-4E73-BACC-E16B512F9D63}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4DFA587A-15B4-4E73-BACC-E16B512F9D63}.Debug|Win32.Build.0 = Debug|Win32
+		{4DFA587A-15B4-4E73-BACC-E16B512F9D63}.Release|Win32.ActiveCfg = Release|Win32
+		{4DFA587A-15B4-4E73-BACC-E16B512F9D63}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

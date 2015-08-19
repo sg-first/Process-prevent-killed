@@ -1,0 +1,4 @@
+PassByIce目录为主程PassByIce_Driver目录为驱动程序,bin目录为编译的exe
+PassByIce.exe启动时会动态释放出PassByIce.sys,以服务方式加载驱动实现驱动隐藏主进程
+
+

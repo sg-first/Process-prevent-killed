@@ -1,0 +1,9 @@
+LIBRARY	"SafeProcess"
+EXPORTS
+ 
+ SetHandle
+ SECTIONS
+
+  SafeProcess READ WRITE SHARED
+ 
+

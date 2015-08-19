@@ -1,0 +1,6 @@
+EXPORTS
+;dll export functions
+	MsgProc
+	SetPID
+	LoadProcess
+	UnLoadProcess
