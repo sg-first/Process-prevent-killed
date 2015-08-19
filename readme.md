@@ -3,7 +3,7 @@ Process prevent killed
 ring3 Right
 --------------------------------------
 * Modify the program's process to the system process
-* Principles and the code is simple, it can prevent the Task Manager to kill the process
+* Principles and the code is simple, it can prevent the Taskmgr to kill the process
 * Valid only in XP.Prevent kill limited, can’t protective ice sword
 * [Reference](http://blog.csdn.net/KeSummer/archive/2008/05/18/2455379.aspx)
 
